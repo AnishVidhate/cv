@@ -1,0 +1,21 @@
+body{
+    background-color: #F7F1E5;
+}
+
+hr{
+    border-color:rgba(141, 138, 138, 0.634);
+    border-style:dotted none none;     
+    /*height:2%;*/
+    border-width:7px;
+    width:5%;
+   }
+
+h3{
+    color: blue/*#66BFBF*/
+}
+h1{
+    color:blue/*#66BFBF*/
+}
+input{
+    background-color: #F7F1E5;
+}
